@@ -1,0 +1,15 @@
+C:\Users\В\source\repos\дз\исправление 41 задания\bin\Debug\net6.0\исправление 41 задания.exe
+C:\Users\В\source\repos\дз\исправление 41 задания\bin\Debug\net6.0\исправление 41 задания.deps.json
+C:\Users\В\source\repos\дз\исправление 41 задания\bin\Debug\net6.0\исправление 41 задания.runtimeconfig.json
+C:\Users\В\source\repos\дз\исправление 41 задания\bin\Debug\net6.0\исправление 41 задания.dll
+C:\Users\В\source\repos\дз\исправление 41 задания\bin\Debug\net6.0\исправление 41 задания.pdb
+C:\Users\В\source\repos\дз\исправление 41 задания\obj\Debug\net6.0\исправление 41 задания.csproj.AssemblyReference.cache
+C:\Users\В\source\repos\дз\исправление 41 задания\obj\Debug\net6.0\исправление 41 задания.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\В\source\repos\дз\исправление 41 задания\obj\Debug\net6.0\исправление 41 задания.AssemblyInfoInputs.cache
+C:\Users\В\source\repos\дз\исправление 41 задания\obj\Debug\net6.0\исправление 41 задания.AssemblyInfo.cs
+C:\Users\В\source\repos\дз\исправление 41 задания\obj\Debug\net6.0\исправление 41 задания.csproj.CoreCompileInputs.cache
+C:\Users\В\source\repos\дз\исправление 41 задания\obj\Debug\net6.0\исправление 41 задания.dll
+C:\Users\В\source\repos\дз\исправление 41 задания\obj\Debug\net6.0\refint\исправление 41 задания.dll
+C:\Users\В\source\repos\дз\исправление 41 задания\obj\Debug\net6.0\исправление 41 задания.pdb
+C:\Users\В\source\repos\дз\исправление 41 задания\obj\Debug\net6.0\исправление 41 задания.genruntimeconfig.cache
+C:\Users\В\source\repos\дз\исправление 41 задания\obj\Debug\net6.0\ref\исправление 41 задания.dll
